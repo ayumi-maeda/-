@@ -36,8 +36,8 @@
   
   // 4次元
 
-  $Black_hair =array($Asia);
-  $Light_color_hair = array($America, $Europe);
+  $asian =array($Asia);
+  $western = array($America, $Europe);
 
   // 5次元
   $Singers = array($Black_hair, $Light_color_hair);
