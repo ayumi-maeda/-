@@ -40,7 +40,7 @@
   $western = array($America, $Europe);
 
   // 5次元
-  $Singers = array($Black_hair, $Light_color_hair);
+  $Singers = array($asian, $western);
 
 
   echo '私の好きな歌手は'. $Singers[1][1][0][0]['name'].'です。<br>';
