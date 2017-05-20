@@ -44,7 +44,7 @@
 
 
   echo '私の好きな歌手は'. $Singers[1][1][0][0]['name'].'です。<br>';
-  echo 'This singer got '.$Singers[1][1][0][0]['grammy'].'grammy awards<br>';
+  echo 'This singer '.$Singers[1][1][0][0]['grammy'].' grammy awards<br>';
   echo 'この歌手は'.$Singers[1][0][0][3]['name'].'の親友です。<br>';
   echo '最近コードを書きながら'.$Singers[1][0][2][1]['name'].'を聞いています。<br>';
   echo '昔は'.$Singers[0][0][1][0]['name'].'が好きでしたが、今は全然聞いてません。<br>';
